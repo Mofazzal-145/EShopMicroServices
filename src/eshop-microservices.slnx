@@ -1,9 +1,1 @@
-<Solution>
-  <Folder Name="/BuildingBlocks/">
-    <Project Path="../../../../../../source/repos/EShopMicroServices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj" Id="2bab3392-2bbd-41a7-8692-458e07ea1b32" />
-  </Folder>
-  <Folder Name="/Services/" />
-  <Folder Name="/Services/Catalog/">
-    <Project Path="../../../../../../source/repos/EShopMicroServices/src/Services/Catalog/CatalogAPI/CatalogAPI.csproj" />
-  </Folder>
-</Solution>
+<Solution />
